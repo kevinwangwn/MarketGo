@@ -13,12 +13,12 @@ app=$base_dir/mktgo-web-0.0.1.jar
 
 java_opts="
 -server
--Xmx1024m
--Xms1024m
--Xmn512m
+-Xmx512m
+-Xms512m
+-Xmn256m
 -XX:SurvivorRatio=8
--XX:MaxMetaspaceSize=512m 
--XX:MetaspaceSize=512m
+-XX:MaxMetaspaceSize=256m 
+-XX:MetaspaceSize=256m
 -XX:+UseParNewGC
 -XX:+UseConcMarkSweepGC 
 -XX:+UseCMSInitiatingOccupancyOnly 
