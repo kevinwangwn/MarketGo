@@ -1,12 +1,10 @@
-```shell
-<div align=center>
-```
 
-​                                                        <img src="https://s1.ax1x.com/2022/10/18/xrKqgK.png" width="500"  align=center />
 
-```shell
-</div>
-```
+
+
+<div align=center><img src="https://s1.ax1x.com/2022/10/18/xrKqgK.png" width="500"  align=center /></div>                                                        
+
+
 
 ## 1、 MarketGo介绍
 
