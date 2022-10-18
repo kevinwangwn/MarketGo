@@ -1,6 +1,6 @@
 
 
-<img src="https://s1.ax1x.com/2022/10/18/xrKqgK.png" width="600"  align=center />
+​                                                        <img src="https://s1.ax1x.com/2022/10/18/xrKqgK.png" width="500"  align=center />
 
 
 
