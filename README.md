@@ -89,15 +89,15 @@ MarketGo的特点：
 
 ## 3、部署流程
 
-[服务器配置](https://baidu.com)
+[服务器配置](https://www.yuque.com/kevinwang-rantv/cv59zh/fc20uz)
 
-[端口配置](https://baidu.com)
+[端口配置](https://www.yuque.com/kevinwang-rantv/cv59zh/ignnb5)
 
-[环境准备](https://baidu.com)
+[环境准备](https://www.yuque.com/kevinwang-rantv/cv59zh/bcuz9q)
 
-[前端部署](https://baidu.com)
+[前端部署](https://www.yuque.com/kevinwang-rantv/cv59zh/scw90g)
 
-[后端部署](https://baidu.com)
+[后端部署](https://www.yuque.com/kevinwang-rantv/cv59zh/ge2r5q)
 
 ## 4、演示环境
 
@@ -121,7 +121,7 @@ MarketGo的源码100%开源，遵守GPL-3.0协议。
 
 ## 7、产品介绍
 
-[演示环境](http://101.34.88.187)
+[产品介绍](https://www.yuque.com/kevinwang-rantv/cv59zh/lgi6m9)
 
 ## 8、捐赠
 
