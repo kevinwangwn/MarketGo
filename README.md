@@ -121,6 +121,8 @@ MarketGo的源码100%开源，遵守GPL-3.0协议。
 
 ## 7、产品介绍
 
+[演示环境](http://101.34.88.187)
+
 ## 8、捐赠
 
 开源不易，坚持更难！如果您觉得MarketGo不错，可以捐赠一杯奶茶，在此表示感谢^_^。
@@ -133,4 +135,5 @@ MarketGo的源码100%开源，遵守GPL-3.0协议。
 
 |                             微信                             |                            支付宝                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://s1.ax1x.com/2022/10/18/xr6oOU.jpg" width="300"  align=center /> | <img src="https://s1.ax1x.com/2022/10/18/xr66eg.jpg" width="300"  align=center /> |
+| <img src="https://github.com/kevinwangwn0209/MarketGo/blob/dev_0.0.1/WechatIMG5.jpeg" width="300"  align=center /> | <img src="https://github.com/kevinwangwn0209/MarketGo/blob/dev_0.0.1/WechatIMG6.jpeg" width="300"  align=center /> |
+
